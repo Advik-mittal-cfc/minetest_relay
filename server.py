@@ -57,7 +57,7 @@ bot = commands.Bot(
 channel_id = 1243424544107270144
 
 port = 20151
-token = "MTIzMzAxMDcyMTcyNjUzMzY4Mw.GhqCCu.6IXlQFM8Jv7vuXPQ6RnLZZ9LwQvmI7FQcGSBio"
+token = "MTMxNjQ1NDM2MDY4Njc4ODcwOA.G45y6B.ihe3ZxZNZmaui-hTxsJfBRsgdUyTdS_-IIlXY0"
 logins_allowed = "true"
 do_clean_invites = "false"
 do_use_nicknames = "true"
